@@ -1,1 +1,1 @@
-# Conduntance_prediction_ohara2017
+# Conductance_prediction_ohara2017
